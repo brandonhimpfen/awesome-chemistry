@@ -112,7 +112,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ChemOS](https://chemos.ai/) – Orchestration system for self-driving laboratories.
 - [Labguru](https://www.labguru.com/) – Electronic lab notebook (ELN) and lab management system.
 - [Benchling](https://www.benchling.com/) – Cloud-based ELN and collaboration platform for life sciences.
-- [Molicheck](https://molicheck.com/molarity) – Free browser molarity and lab calculators with step-by-step unit conversions.
+- [Molicheck](https://molicheck.com/molarity) – Browser-based molarity, dilution, and solution preparation calculators with worked equations and unit conversions.
 
 ## Visualization & Plotting
 
