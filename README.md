@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bento](https://github.com/LigandPro/Bento) – Reproducible protein-ligand docking benchmark with annotation, pocket similarity, and HPC workflows.
 - [HEDGEHOG](https://github.com/LigandPro/hedgehog) – Stage-based evaluation pipeline for generative molecular design, docking, pose validation, and reporting.
 - [Matcha](https://github.com/LigandPro/Matcha) – Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking.
+- [SeqChem](https://seqandchem.com/) – Free browser-based converter and descriptor calculator for 190+ chemical formats, with SMILES/InChI support and a public JSON API.
 
 ## Quantum Chemistry
 
