@@ -128,6 +128,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Chem LibreTexts](https://chem.libretexts.org/) – Open-access chemistry textbooks and learning modules.
 - [MIT OpenCourseWare – Chemistry](https://ocw.mit.edu/courses/chemistry/) – University-level chemistry courses.
 - [Khan Academy Chemistry](https://www.khanacademy.org/science/chemistry) – Beginner-friendly chemistry lessons.
+- [carboncarbon.bond](https://carboncarbon.bond/) – Free introduction to organic chemistry: 40 short lessons with structure drawings and 3D models built from PubChem data.
 
 ### Guides
 - [Organic Chemistry Portal](https://www.organic-chemistry.org/) – Reference materials and reaction guides.
